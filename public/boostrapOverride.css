@@ -1,0 +1,19 @@
+.text-bg-todo{
+    background-color: #001848;
+}
+
+.btn-todo{
+    background-color: #301860;
+}
+
+.btn-todo:hover{
+    background-color: #00b4fc;
+}
+
+.card-body{
+    background-color: #906090;
+}
+
+input[type=checkbox]:checked + label.strikethrough{
+    text-decoration: line-through;
+}
